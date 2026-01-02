@@ -2,7 +2,7 @@
 
 **Isai** (Tamil for "Music") is an AI-powered music player that detects your mood using facial recognition and recommends songs to match how you feel. Built with a modern tech stack, it features a stunning, animated UI and a seamless audio experience.
 
-![Project Banner](https://via.placeholder.com/1200x500/121A2C/5D6E97?text=ISAI+Mood+Based+Music+Player)
+![Logo](https://ik.imagekit.io/4O4ed/Logo/Isai_Logo.png?updatedAt=1767372010806)
 
 ## ✨ Features
 
@@ -132,7 +132,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the ISC License.

@@ -3,8 +3,8 @@ import avatarImg from "../assets/avatar.jpg";
 
 const TopBar = () => {
     return (
-        <div className="flex items-center justify-between mb-6">
-            <h1 className="text-2xl font-bold text-foreground">ISAI</h1>
+        <div className="flex items-center justify-end mb-6 relative">
+            <img src="https://ik.imagekit.io/4O4ed/Logo/Isai_Logo.png?updatedAt=1767372010806" alt="Isai Logo" className="w-24 h-24 left-0 absolute" />
 
             <div className="flex items-center gap-4">
                 {/* Search Input */}
